@@ -1,5 +1,8 @@
 ### Hi there 👋. Im a new software developer! wooo what a legend!
 
+
+I'm looking to collaborate with open source projects and just try to always keep learning.
+
 <!--
 **MaxBDGAF/MaxBDGAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

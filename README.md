@@ -1,4 +1,6 @@
-### Hello 🫡. Like most people on github I am a software developer. Below is a list of some of my personal projects. Not sure how long I can keep adding counter to their names but ill find a way. Im always looking to work as a group, so if you have a project idea, dont hesitate to contact me! My email is: maxbarnes.dev@gmail.com. Please include Personal Project in the subject line. 
+### Hello 🫡. Like most people on github I am a software developer. 
+
+Below is a list of some of my personal projects. Not sure how long I can keep adding counter to their names but ill find a way. Im always looking to work as a group, so if you have a project idea, dont hesitate to contact me! My email is: maxbarnes.dev@gmail.com. Please include Personal Project in the subject line. 
 
 Fun Fact about me: I was born without a sense of smell. 
 

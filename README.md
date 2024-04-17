@@ -4,7 +4,7 @@ Below is a list of some of my personal projects. Not sure how long I can keep ad
 
 Fun Fact about me: I was born without a sense of smell. 
 
-Interests: Mobile Development, Game Development, Automation, Metal Music
+Interests: Mobile Development, Game Development, Metal Music
 
 <!--
 **MaxBDGAF/MaxBDGAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

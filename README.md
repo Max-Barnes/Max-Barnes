@@ -6,11 +6,11 @@ Fun Fact about me: I was born without a sense of smell.
 
 Skills:
 --------------------------------------------------------------
-Programming Languages: Java, HTML, CSS, JavaScript
-Frameworks and Libraries: Spring Boot, Vue.js
-Database Languages: JDBC, SQL, PostgreSQL, Table Design, E/R diagrams
-Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma
-Testing: Unit Testing (JUnit), Integration Testing
+Programming Languages: Java, HTML, CSS, JavaScript /n
+Frameworks and Libraries: Spring Boot, Vue.js /n
+Database Languages: JDBC, SQL, PostgreSQL, Table Design, E/R diagrams /n
+Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma /n
+Testing: Unit Testing (JUnit), Integration Testing /n
 
 Interests: 
 ---------------------------------------------------------------

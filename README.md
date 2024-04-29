@@ -1,16 +1,22 @@
 ### Hello! I am a software developer. 
 
-Below is a list of some of my personal projects. Not sure how long I can keep adding counter to their names but ill find a way. Im always looking to work as a group, so if you have a project idea, dont hesitate to contact me! My email is: maxbarnes.dev@gmail.com. Please include Personal Project in the subject line. 
+Below is a list of some of my personal projects. Not sure how long I can keep adding counter to their names but ill find a way. Im always looking to work as a group, so if you have any opportunities, dont hesitate to contact me! My email is: maxbarnes.dev@gmail.com.
 
 Fun Fact about me: I was born without a sense of smell. 
 
+Linkedin: https://www.linkedin.com/in/maxbarnesdev/
+
 Skills:
 --------------------------------------------------------------
-Programming Languages: Java, HTML, CSS, JavaScript /n
-Frameworks and Libraries: Spring Boot, Vue.js /n
-Database Languages: JDBC, SQL, PostgreSQL, Table Design, E/R diagrams /n
-Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma /n
-Testing: Unit Testing (JUnit), Integration Testing /n
+Programming Languages: Java, HTML, CSS, JavaScript    
+
+Frameworks and Libraries: Spring Boot, Vue.js, React Native      
+
+Database Languages: JDBC, SQL, PostgreSQL, Table Design, E/R diagrams 
+
+Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma   
+
+Testing: Unit Testing (JUnit), Integration Testing    
 
 Interests: 
 ---------------------------------------------------------------

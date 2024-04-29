@@ -1,10 +1,20 @@
-### Hello! I am a mostly talented software developer. 
+### Hello! I am a software developer. 
 
 Below is a list of some of my personal projects. Not sure how long I can keep adding counter to their names but ill find a way. Im always looking to work as a group, so if you have a project idea, dont hesitate to contact me! My email is: maxbarnes.dev@gmail.com. Please include Personal Project in the subject line. 
 
 Fun Fact about me: I was born without a sense of smell. 
 
-Interests: Mobile Development, Game Development, Metal Music
+Skills:
+--------------------------------------------------------------
+Programming Languages: Java, HTML, CSS, JavaScript
+Frameworks and Libraries: Spring Boot, Vue.js
+Database Languages: JDBC, SQL, PostgreSQL, Table Design, E/R diagrams
+Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma
+Testing: Unit Testing (JUnit), Integration Testing
+
+Interests: 
+---------------------------------------------------------------
+Mobile Development, Game Development, Metal Music
 
 <!--
 **MaxBDGAF/MaxBDGAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

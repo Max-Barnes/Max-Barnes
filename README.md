@@ -13,7 +13,7 @@ Skills:
 --------------------------------------------------------------
 Programming Languages: Java, HTML, CSS, JavaScript    
 
-Frameworks and Libraries: Spring Boot, Vue.js, React Native      
+Frameworks and Libraries: Spring Boot, Vue.js, React Native, React      
 
 Database Languages: JDBC, SQL, PostgreSQL, Table Design, E/R diagrams 
 

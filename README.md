@@ -13,7 +13,7 @@ Database Languages: JDBC, SQL, PostgreSQL
 
 Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma   
 
-Operating Systems: Windows, Linux (Ubuntu)
+Operating Systems: Windows, Linux (Ubuntu, Raspbian)
 
 Interests: 
 ---------------------------------------------------------------

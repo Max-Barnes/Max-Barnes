@@ -11,9 +11,11 @@ Frameworks and Libraries: Spring Boot, Vue.js, React Native, Next.js
 
 Database Languages: JDBC, SQL, PostgreSQL
 
-Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma   
+Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma 
 
 Operating Systems: Windows, Linux (Ubuntu, Raspbian)
+
+Containers: Docker
 
 Interests: 
 ---------------------------------------------------------------

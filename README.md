@@ -13,13 +13,13 @@ Database Languages: JDBC, SQL, PostgreSQL
 
 Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma 
 
-Operating Systems: Windows, Linux (Ubuntu, Raspbian)
+Operating Systems: Windows, Linux (Ubuntu, Debian)
 
 Containers: Docker
 
 Interests: 
 ---------------------------------------------------------------
-Cyber Security, Mobile Development, Game Development, Metal Music
+Cyber Security, Mobile Development, Game Development, Python Automation, Metal Music
 
 <!--
 **MaxBDGAF/MaxBDGAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

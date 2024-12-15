@@ -21,22 +21,15 @@ Cyber Security Tools:
 
 Certifications:
 ---------------------------------------------------------------
+![Alt text](/googlecyberbadge.png)
 
 Interests: 
 ---------------------------------------------------------------
 Cyber Security, Mobile Development, Game Development, Python Automation, Metal Music
 
-<!--
-**MaxBDGAF/MaxBDGAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Links:
+---------------------------------------------------------------
+[Linkedin](https://www.linkedin.com/in/maxbarnesdev/)
 
-Here are some ideas to get you started:
+[Google Cybersecurity Certificate](https://www.credly.com/badges/836d5969-2c2e-4acc-b347-9cf68f537815/public_url)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

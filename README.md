@@ -21,7 +21,7 @@ Cyber Security Tools:
 
 Certifications:
 ---------------------------------------------------------------
-![Alt text](/google-cybersecurity-certificate.png)
+![Alt text](/google-cyber-certificate.png)
 
 Interests: 
 ---------------------------------------------------------------

@@ -5,19 +5,17 @@ I'm Max Barnes, and I am a creator at heart. Whether it's conceptualizing, comin
 
 Skills:
 --------------------------------------------------------------
-Programming Languages: Java, Python, JavaScript    
+Programming Languages: Java, Python, JavaScript, Bash, Powershell
 
 Frameworks and Libraries: Spring Boot, Vue.js, React Native, Next.js     
 
 Database Languages: JDBC, SQL, PostgreSQL
 
-Development Methodologies and Tools: Agile, Git, Intellij, Vscode, Vim, ChatGPT, Figma 
+Development Methodologies and Tools: Agile, Git, Office 365 
 
-Operating Systems: Windows, Linux (Ubuntu, Debian)
+Servers and Containers: Windows, Linux, Proxmox, Active Directory, Docker
 
-Containers: Docker
-
-Cyber Security Tools: 
+Cyber Security Tools: Wireshark, Suricata, Chronicle, Splunk, Network Security
 
 Certifications:
 ---------------------------------------------------------------

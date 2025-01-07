@@ -7,7 +7,7 @@ Skills:
 --------------------------------------------------------------
 Programming Languages: Java, Python, JavaScript, Bash, Powershell
 
-Frameworks and Libraries: Spring Boot, Vue.js, React Native, Next.js     
+Frameworks and Libraries: Spring Boot, Vue.js, React Native, Next.js
 
 Database Languages: JDBC, SQL, PostgreSQL
 
@@ -23,7 +23,7 @@ Certifications:
 
 Interests: 
 ---------------------------------------------------------------
-Cyber Security, Mobile Development, Game Development, Python Automation, Metal Music
+Cyber Security, Mobile Development, Game Development, Automation, Metal Music
 
 Links:
 ---------------------------------------------------------------

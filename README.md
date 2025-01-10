@@ -3,8 +3,10 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/maxbarnesdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height=auto/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height="50"/>
   </a>
+  <span>
+  <img src="https://komarev.com/ghpvc/?username=Max-Barnes&style=for-the-badge&color=blueviolet" alt="profile views counter" width=auto height="50"/>
 </div>
 
 

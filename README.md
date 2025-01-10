@@ -23,13 +23,13 @@ Certifications:
 ---------------------------------------------------------------
 ![Google Cyber Security Certification](/google-cyber-certificate.png)
 
-Interests: 
----------------------------------------------------------------
-Cyber Security, Mobile Development, Game Development, Automation, Metal Music
 
-Links:
 ---------------------------------------------------------------
-[Linkedin](https://www.linkedin.com/in/maxbarnesdev/)
 
-[Google Cybersecurity Certificate](https://www.credly.com/badges/836d5969-2c2e-4acc-b347-9cf68f537815/public_url)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/maxbarnesdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height=auto/>
+  </a>
+</div>
+
 

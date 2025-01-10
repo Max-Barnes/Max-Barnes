@@ -9,7 +9,7 @@ Programming Languages: Java, Python, JavaScript, Bash, Powershell
 
 Frameworks and Libraries: Spring Boot, Vue.js, React Native, Next.js
 
-Database Languages: JDBC, SQL, PostgreSQL
+Database Languages: SQL, PostgreSQL
 
 Development Methodologies and Tools: Agile, Git, Office 365 
 

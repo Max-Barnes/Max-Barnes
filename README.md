@@ -1,3 +1,5 @@
+![Banner](/banner.gif)
+
 ### Take your tech to the Max!
 ------------------------------------------------------------
 
@@ -19,7 +21,7 @@ Cyber Security Tools: Wireshark, Suricata, Chronicle, Splunk, Network Security
 
 Certifications:
 ---------------------------------------------------------------
-![Alt text](/google-cyber-certificate.png)
+![Google Cyber Security Certification](/google-cyber-certificate.png)
 
 Interests: 
 ---------------------------------------------------------------

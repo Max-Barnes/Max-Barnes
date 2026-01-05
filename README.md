@@ -18,7 +18,7 @@ Whether it's conceptualizing, coming up with stories, or figuring out how to mak
 
 Below you can see a list of projects I've worked on. If you have any questions or want to work on something together don't hesitate to connect with me.
 
-Current Project Github Organization: https://github.com/Top-Secret-Avengers
+Currently trying to deploy a dont starve together dedicated server on my homelab with kubernetes. 
 
 Certifications:
 ---------------------------------------------------------------

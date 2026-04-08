@@ -24,6 +24,7 @@ Certifications:
 ---------------------------------------------------------------
 ![Google Cyber Security Certification](/google-cyber-certificate.png)
 
+[![AZ-104 Certified](Image URL)](https://learn.microsoft.com/en-us/users/maxbarnes-4094/credentials/a54edc406c395d2d)
 
 
 

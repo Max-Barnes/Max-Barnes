@@ -22,9 +22,7 @@ Currently trying to deploy a dont starve together dedicated server on my homelab
 
 Certifications:
 ---------------------------------------------------------------
-![Google Cyber Security Certification](/google-cyber-certificate.png)
-
-[![AZ-104 Certified](Image URL)](https://learn.microsoft.com/en-us/users/maxbarnes-4094/credentials/a54edc406c395d2d)
-
-
+<a href="https://learn.microsoft.com/en-us/users/maxbarnes-4094/credentials/a54edc406c395d2d">
+  <img src="/microsoft-certified-associate-badge.svg" width="300" height="200" alt="AZ-104">
+</a>
 

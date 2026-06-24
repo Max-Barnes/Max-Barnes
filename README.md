@@ -18,7 +18,7 @@ Whether it's conceptualizing, coming up with stories, or figuring out how to mak
 
 Below you can see a list of projects I've worked on. If you have any questions or want to work on something together don't hesitate to connect with me.
 
-Currently working on the AWS Cloud Resume Challenge, you can see progress at maxbarnes.com. 
+Currently working on building with Packer and Ansible. There is not very much terraform of mine on github yet, more will be posted soon.
 
 Certifications:
 ---------------------------------------------------------------

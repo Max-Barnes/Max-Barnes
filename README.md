@@ -18,11 +18,9 @@ I’m a Cyber Security student graduating December of 2026 and aspiring DevSecOp
 
 My hands-on experience includes:
 
-The Tech Elevator coding bootcamp where I learned Fullstack Web Development using Java, Javascript and Postgresql along with the Agile/Scrum methodology. On my own I have taught myself Python, Bash , and Powershell scripting.
+The NCAE Cyber Games, where we were tasked with securely configuring a web server, FTP server, backup server, postgreSQL server, and router. I have also participated in the Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC), where I focused on kubernetes, linux mail servers and incident response scenarios.
 
-I have participated in the NCAE Cyber Games, where we were tasked with securely configuring a web server, FTP server, backup server, postgreSQL server, and router. I have also participated in the Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC), where I focused on kubernetes, linux mail servers and incident response scenarios.
-
-Additionally I am running a Proxmox homelab where I experiment with system administration along with security and automation tools—giving me practical insight into real-world challenges of DevSecOps. I’m especially interested in CI/CD, infrastructure as code, and cloud-native technologies that bridge development and operations.
+Additionally I am running a Proxmox homelab where I experiment with system administration along with security and automation tools—giving me practical insight into real-world challenges of DevSecOps. I’m especially interested in CI/CD, infrastructure as code, and cloud-native technologies that bridge development and operations. Currently working with my own Azure and AWS sandboxes to create my resume website and discord voting bot.
 
 Professionally, I’ve worked as an IT intern and Technology assistant, where I supported infrastructure, troubleshooting, and system management, sharpening my problem-solving skills and deepening my technical foundation, along with giving me insight into the business side of IT. Most recently I have worked two internships in cloud operations with AWS and Azure, building with terraform and learning how cloud migrations work for the government and enterprise.
 

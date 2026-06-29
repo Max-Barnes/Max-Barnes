@@ -1,4 +1,4 @@
-![Banner](/banner.gif)
+![banner](/banner.gif)
 
 
 <div id="badges">
@@ -14,11 +14,19 @@
 ### Take your tech to the Max!
 ------------------------------------------------------------
 
-Whether it's conceptualizing, coming up with stories, or figuring out how to make day-to-day life easier; I am always driven by the idea of what could be. I've cultivated extensive leadership experience and customer service skills throughout my career across various industries. However, hobby game dev sparked my fascination with technology and its potential to take my ideas and build them into anything. My career goals are to eventually end up in DevSecOps or Cloud Security Engineer. 
+I’m a Cyber Security student graduating December of 2026 and aspiring DevSecOps/Cloud security engineer passionate about technology. I enjoy working with people and building things that make an impact. I always attack my work head on by choosing large targets and breaking them down into manageable pieces.
 
-Below you can see a list of projects I've worked on. If you have any questions or want to work on something together don't hesitate to connect with me.
+My hands-on experience includes:
 
-Currently working on building with Packer and Ansible. There is not very much terraform of mine on github yet, more will be posted soon.
+The Tech Elevator coding bootcamp where I learned Fullstack Web Development using Java, Javascript and Postgresql along with the Agile/Scrum methodology. On my own I have taught myself Python, Bash , and Powershell scripting.
+
+I have participated in the NCAE Cyber Games, where we were tasked with securely configuring a web server, FTP server, backup server, postgreSQL server, and router. I have also participated in the Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC), where I focused on kubernetes, linux mail servers and incident response scenarios.
+
+Additionally I am running a Proxmox homelab where I experiment with system administration along with security and automation tools—giving me practical insight into real-world challenges of DevSecOps. I’m especially interested in CI/CD, infrastructure as code, and cloud-native technologies that bridge development and operations.
+
+Professionally, I’ve worked as an IT intern and Technology assistant, where I supported infrastructure, troubleshooting, and system management, sharpening my problem-solving skills and deepening my technical foundation, along with giving me insight into the business side of IT. Most recently I have worked two internships in cloud operations with AWS and Azure, building with terraform and learning how cloud migrations work for the government and enterprise.
+
+Currently working on an Azure hosted discord voting bot.
 
 Certifications:
 ---------------------------------------------------------------
